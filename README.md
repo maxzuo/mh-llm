@@ -15,6 +15,8 @@ or from the source:
 pip install git+https://github.com/maxzuo/mh-llm.git
 ```
 
+This was tested with vLLM 0.11.0, it may not work with newer versions.
+
 ## Example Usage
 ```python
 from mh_llm import MHLLM
